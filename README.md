@@ -5,14 +5,12 @@ _Acá va un párrafo que describa lo que es el proyecto_
 
 ![Code === Super Powers](https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
 
-## Comenzando 🚀
-
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
-
-Mira **Deployment** para conocer como desplegar el proyecto.
+## Perfiles Técnologicos 🚀
 
 
-### Pre-requisitos 📋
+
+
+### Pre-requisitos generales📋
 
 _Que cosas necesitas para instalar el software y como instalarlas_
 
@@ -20,7 +18,7 @@ _Que cosas necesitas para instalar el software y como instalarlas_
 Da un ejemplo
 ```
 
-### Instalación 🔧
+### Front-end Developer🔧
 
 _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
 
